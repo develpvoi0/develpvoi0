@@ -89,7 +89,7 @@ const jhorman = {
 ## 🐍 Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/develpvoi0/develpvoi0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" media="(prefers-color-scheme: light)/>
+  <img src="https://raw.githubusercontent.com/develpvoi0/develpvoi0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
